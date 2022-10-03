@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anie308
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React and Nodejs
+- 👋 Hi, I’m Aniebietabasi Obo
+- 👀 I’m love creating magic with the development tools at my disposal
+- 🌱 I use  React, Typescript, Reactnative, Nodejs, Frontity and Hydrogen  to build scalable applicatios
 - 💞️ I’m looking to collaborate on frontend jobs 
 - 📫 How to reach me aniebietobo@gmail.com
 
