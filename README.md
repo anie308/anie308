@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aniebietabasi Obo
 - 👀 I’m love creating magic with the development tools at my disposal
 - 🌱 I use  React, Typescript, Reactnative, Nodejs, Frontity and Hydrogen  to build scalable applicatios
-- 💞️ I’m looking to collaborate on frontend jobs 
+- 💞️ I’m looking to collaborate on frontend jobs for web and mobile apps 
 - 📫 How to reach me aniebietobo@gmail.com
 
 <!---
