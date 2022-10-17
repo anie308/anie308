@@ -8,3 +8,4 @@
 anie308/anie308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://activity-graph.herokuapp.com/graph?username=anie308 &theme=dracula">
