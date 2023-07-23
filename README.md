@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Aniebietabasi Obo
-- 👀 I’m love creating magic with the development tools at my disposal
+- 👀 I love creating magic with the development tools at my disposal
 - 🌱 I use  React, Typescript, Reactnative, Nodejs, Frontity and Hydrogen  to build scalable applicatios
 - 💞️ I’m looking to collaborate on frontend jobs for web and mobile apps 
-- 📫 How to reach me aniebietobo@gmail.com
+- 📫 How to reach me :
+- Email: aobo443@gmail.com
+- Whatsapp: https://wa.link/4ni0ih
 
 <!---
 anie308/anie308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
