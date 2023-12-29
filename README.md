@@ -17,4 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=anie308">
+
+
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=anie308&count_private=true&theme=tokyonight&showicons=true">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anie308)](https://git.io/streak-stats)
