@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Alpheus Godswill 
+- 👋 Hi, I’m Aniebietabasi Obo 
 - 👀 I love creating magic with the development tools at my disposal
 - 🌱 I use  React, Typescript, Reactnative, Nodejs, Frontity and Hydrogen  to build scalable applicatios
 - 💞️ I’m looking to collaborate on frontend jobs for web and mobile applications 
 - 📫 How to reach me :
-- Email: harryalph9@gmail.com
-- Whatsapp: +2349057555416
+- Email: aobo443@gmail.com
+- Whatsapp: https://wa.link/hnqm8i
 
 <!---
 anie308/anie308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
